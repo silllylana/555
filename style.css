@@ -1,1 +1,16 @@
+html{
+  cursor: url(leoncursor.cur), auto;
+}
 
+body{
+  background: black;
+  color: white;
+}
+
+a{
+  color: white
+}
+
+a:hover{
+  color: #f5a6ce;
+}
