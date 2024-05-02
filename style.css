@@ -52,6 +52,7 @@ h3{
 }
 
 .nav{
+  width: 296px;
   grid-area: nav;
   border: solid 1px;
   border-color: #f5a6ce;
@@ -59,7 +60,6 @@ h3{
 }
 
 .main{
-  right: 0px;
   width: 500px;
   grid-area: main;
   border: solid 1px;
