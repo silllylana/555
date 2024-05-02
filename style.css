@@ -59,6 +59,7 @@ h3{
 }
 
 .main{
+  right: 0px;
   width: 500px;
   grid-area: main;
   border: solid 1px;
