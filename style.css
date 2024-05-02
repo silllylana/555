@@ -48,22 +48,26 @@ h3{
   grid-area: header;
   border: solid 1px;
   border-color: #f5a6ce;
+  border-radius: 10px;
 }
 
 .nav{
   grid-area: nav;
   border: solid 1px;
   border-color: #f5a6ce;
+  border-radius: 10px;
 }
 
 .main{
   grid-area: main;
   border: solid 1px;
   border-color: #f5a6ce;
+  border-radius: 10px;
 }
 
 .footer{
   grid-area: footer;
   border: solid 1px;
   border-color: #f5a6ce;
+  border-radius: 10px;
 }
